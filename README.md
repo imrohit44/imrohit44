@@ -15,7 +15,7 @@ A Computer Science Engineering undergraduate | AI, Software Development & Roboti
 - Robotics & Embedded Systems  
 - Scalable full-stack applications
 
-📫 Reach me at:  [LinkedIn](https://www.linkedin.com/in/rohitmohan01/) | [Gmail](rohitmohan7804@gmail.com)
+📫 Reach me at:  [LinkedIn](https://www.linkedin.com/in/rohitmohan-dev) | [Gmail](rohitmohan7804@gmail.com)
 
 
 ⚡ Fun fact: I turn real-world problems into practical tech solutions.
