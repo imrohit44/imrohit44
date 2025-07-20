@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Rohit Mohan
+# Hi there ! I'm Rohit Mohan
 
 A Computer Science Engineering undergraduate | AI, Software Development & Robotics Enthusiast
 
