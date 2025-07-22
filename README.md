@@ -1,6 +1,6 @@
 # Hey there! I'm Rohit Mohan
 
-A Computer Science Engineering undergraduate | AI, Software Development & Robotics Enthusiast
+A Computer Science Engineering undergraduate | AI, Software Development and Robotics Enthusiast
 
 ---
 
