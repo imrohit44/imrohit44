@@ -1,4 +1,4 @@
-# Hi there ! I'm Rohit Mohan
+# Hey there! I'm Rohit Mohan
 
 A Computer Science Engineering undergraduate | AI, Software Development & Robotics Enthusiast
 
@@ -16,7 +16,6 @@ A Computer Science Engineering undergraduate | AI, Software Development & Roboti
 - Scalable full-stack applications
 
  Reach me at:   [LinkedIn](https://www.linkedin.com/in/rohitmohan-dev)
-
 
  Fun fact: I turn real-world problems into practical tech solutions.
 
