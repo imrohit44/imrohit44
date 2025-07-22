@@ -5,15 +5,15 @@ A Computer Science Engineering undergraduate | AI, Software Development & Roboti
 ---
 
  Currently working on:  
-- AI-powered agricultural assistant   
-- Intelligent navigation & obstacle avoidance system   
-- A scalable full-stack platform to centralize and automate digital marketing workflows
+ - AI-powered agricultural assistant   
+ - Intelligent navigation & obstacle avoidance system   
+ - A scalable full-stack platform to centralize and automate digital marketing workflows
 
  Open to collaborate on: 
-- Product-focused development
-- AI/ML projects  
-- Robotics & Embedded Systems  
-- Scalable full-stack applications
+ - Product-focused development
+ - AI/ML projects  
+ - Robotics & Embedded Systems  
+ - Scalable full-stack applications
 
  Reach me at:   [LinkedIn](https://www.linkedin.com/in/rohitmohan-dev)
 
