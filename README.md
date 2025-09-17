@@ -10,20 +10,14 @@
 
 <div align="center">
  
-  I’m currently working on **Intelligent Navigation & Obstacle Detection System**
- 
 
- **Open to Collaborate on:**
- 
-AI/ML Projects  
-Robotics & Embedded Systems  
-Scalable full-stack applications
 
  <div>
 <br/>
 
  ![](https://nirzak-streak-stats.vercel.app/?user=imrohit44&theme=dark&hide_border=false)<br/>
 
+![](https://github-readme-stats.vercel.app/api?username=imrohit44&show_icons=true&theme=gruvbox)
 
 
 <div align="center"> 
@@ -34,6 +28,5 @@ Scalable full-stack applications
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 
-  Fun fact: I turn real-world problems into practical tech solutions.
 ---
 
