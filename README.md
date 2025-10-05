@@ -1,79 +1,66 @@
-<div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=200&section=header&text=ROHIT%20MOHAN&fontSize=70&fontAlignY=35&desc=Robotics%20·%20ML%20·%20Innovation&descAlignY=60&animation=twinkling&fontColor=f7d747"/>
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=200&section=header&text=ROHIT%20MOHAN&fontSize=70&fontAlignY=35&desc=Robotics%20·%20ML%20·%20Innovation&descAlignY=60&animation=twinkling&fontColor=f7d747"/>
+</p>
 
-<div style="background: linear-gradient(90deg, #FC466B 0%, #3F5EFB 100%); padding: 3px; border-radius: 10px; margin: 0 10px;">
-  <div style="background: #0d1117; padding: 10px; border-radius: 8px;">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&pause=1000&color=f7d747&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Building+Smart+Robotics;Innovation;🔮+Crafting+the+Future" alt="Typing Animation"/>
-  </div>
-</div>
-
-<!-- Contribution Snake -->
-<div align="center">
-  <div style="background: linear-gradient(90deg, #FC466B 0%, #3F5EFB 100%); padding: 3px; border-radius: 10px; margin: 20px 10px;">
-    <div style="background: #0d1117; padding: 20px; border-radius: 8px;">
-      <picture>
-        <source
-          srcset="https://raw.githubusercontent.com/imrohit44/imrohit44/output/github-contribution-grid-snake-dark.svg"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://raw.githubusercontent.com/imrohit44/imrohit44/output/github-contribution-grid-snake.svg"
-          media="(prefers-color-scheme: light)"
-        />
-        <img
-          alt="github contribution grid snake animation"
-          src="https://raw.githubusercontent.com/imrohit44/imrohit44/output/github-contribution-grid-snake.svg"
-          width="100%"
-        />
-      </picture>
-      
-      <div align="center" style="margin-top: 15px;">
-        <em style="color: #FC466B">🎮 Watch my contribution snake dance through the code!<br>
-        Each commit makes it stronger, each pull request makes it longer 🐍✨</em>
-      </div>
-    </div>
-  </div>
-</div>
-
-<!-- Stats Divider -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2&section=header" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imrohit44&theme=dark&hide_border=true&ring=6ef776&fire=6ef776&currStreakLabel=6ef776" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=imrohit44&show_icons=true&theme=dark&hide_border=true&icon_color=6ef776&title_color=6ef776" width="49%" />
-</div>
-
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 12px; margin: 20px 0;">
-  <img src="https://img.shields.io/badge/Python--f7d747?style=for-the-badge&logo=python&logoColor=f7d747&labelColor=0d1117&borderColor=f7d747" />
-  <img src="https://img.shields.io/badge/PyTorch--f7d747?style=for-the-badge&logo=pytorch&logoColor=f7d747&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/OpenCV--f7d747?style=for-the-badge&logo=opencv&logoColor=f7d747&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/ROS--f7d747?style=for-the-badge&logo=ros&logoColor=f7d747&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Linux--f7d747?style=for-the-badge&logo=linux&logoColor=f7d747&labelColor=0d1117" />
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,tensorflow,ros,linux,docker,git&theme=dark&perline=8" />
-</div>
-
-<br/>
-
-
-<div align="center" style="margin: 20px 0;">
-  <a href="mailto:rohitmohan7804@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-f7d747?style=for-the-badge&logo=gmail&logoColor=black" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/rohitmohan-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-f7d747?style=for-the-badge&logo=linkedin&logoColor=black" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/imrohit44">
-    <img src="https://img.shields.io/badge/GitHub-f7d747?style=for-the-badge&logo=github&logoColor=black" />
-  </a>
-</div>
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&color=f7d747&center=true&vCenter=true&width=600&height=70&lines=Building+Smart+Robotics;Innovation;🔮+Crafting+the+Future" alt="Typing Animation"/>
+</p>
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/imrohit44/imrohit44/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake animation" />
+</p>
+
+<p align="center">
+  <em style="color:#f7d747;">🎮 Watch my contribution snake dance through the code!<br>
+  Each commit makes it stronger, each pull request makes it longer 🐍✨</em>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imrohit44&theme=github-dark-dimmed&hide_border=true&ring=f7d747&fire=f7d747&currStreakLabel=f7d747" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=imrohit44&show_icons=true&theme=github_dark&hide_border=true&title_color=f7d747&icon_color=f7d747&text_color=c9d1d9" width="49%"/>
+</p>
+
+---
+
+### ⚙️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-f7d747?style=for-the-badge&logo=python&logoColor=black&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/PyTorch-f7d747?style=for-the-badge&logo=pytorch&logoColor=black&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/OpenCV-f7d747?style=for-the-badge&logo=opencv&logoColor=black&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/ROS-f7d747?style=for-the-badge&logo=ros&logoColor=black&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Linux-f7d747?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d1117"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,tensorflow,ros,linux,docker,git&theme=dark&perline=8"/>
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="mailto:rohitmohan7804@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-f7d747?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/rohitmohan-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-f7d747?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/imrohit44">
+    <img src="https://img.shields.io/badge/GitHub-f7d747?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+<h4 align="center">⚡ From Circuits to Cosmos — I Create Beyond Limits ⚡</h4>
