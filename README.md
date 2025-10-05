@@ -10,16 +10,31 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=35&pause=1000&color=6ef776&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Building+Smart+Robots;Training+Neural+Nets;Breaking+%26+Making+Things" alt="Typing Animation"/>
 
 <!-- Contribution Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imrohit44/imrohit44/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imrohit44/imrohit44/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/imrohit44/imrohit44/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
 <div align="center">
-  <em>🎮 Watch the snake eat my contributions!<br>
-  Each green square = one more line of code 🐍✨</em>
+  <picture>
+    <source
+      srcset="https://raw.githubusercontent.com/imrohit44/imrohit44/output/github-contribution-grid-snake-dark.svg"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://raw.githubusercontent.com/imrohit44/imrohit44/output/github-contribution-grid-snake.svg"
+      media="(prefers-color-scheme: light)"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/imrohit44/imrohit44/output/github-contribution-grid-snake.svg"
+      width="100%"
+    />
+  </picture>
+  
+  <div style="background: linear-gradient(to right, #6ef776, #1a1b27); padding: 10px; margin: 10px 0; border-radius: 6px;">
+    <em>🎮 Watching the contribution snake grow stronger every day!<br>
+    Each commit feeds the snake, making it longer and more powerful 🐍✨</em>
+  </div>
 </div>
+
+<!-- Snake Animation Divider -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=6ef776&height=10&section=header" width="100%"/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imrohit44&theme=dark&hide_border=true&ring=6ef776&fire=6ef776&currStreakLabel=6ef776" width="49%" />
