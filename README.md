@@ -10,30 +10,36 @@
 
 <!-- Contribution Snake -->
 <div align="center">
-  <picture>
-    <source
-      srcset="https://raw.githubusercontent.com/imrohit44/imrohit44/output/github-contribution-grid-snake-dark.svg"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://raw.githubusercontent.com/imrohit44/imrohit44/output/github-contribution-grid-snake.svg"
-      media="(prefers-color-scheme: light)"
-    />
-    <img
-      alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/imrohit44/imrohit44/output/github-contribution-grid-snake.svg"
-      width="100%"
-    />
-  </picture>
-  
-  <div style="background: linear-gradient(to right, #6ef776, #1a1b27); padding: 10px; margin: 10px 0; border-radius: 6px;">
-    <em>🎮 Watching the contribution snake grow stronger every day!<br>
-    Each commit feeds the snake, making it longer and more powerful 🐍✨</em>
+  <div style="background: linear-gradient(90deg, #FC466B 0%, #3F5EFB 100%); padding: 3px; border-radius: 10px; margin: 20px 10px;">
+    <div style="background: #0d1117; padding: 20px; border-radius: 8px;">
+      <picture>
+        <source
+          srcset="https://raw.githubusercontent.com/imrohit44/imrohit44/output/github-contribution-grid-snake-dark.svg"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://raw.githubusercontent.com/imrohit44/imrohit44/output/github-contribution-grid-snake.svg"
+          media="(prefers-color-scheme: light)"
+        />
+        <img
+          alt="github contribution grid snake animation"
+          src="https://raw.githubusercontent.com/imrohit44/imrohit44/output/github-contribution-grid-snake.svg"
+          width="100%"
+        />
+      </picture>
+      
+      <div align="center" style="margin-top: 15px;">
+        <em style="color: #FC466B">🎮 Watch my contribution snake dance through the code!<br>
+        Each commit makes it stronger, each pull request makes it longer 🐍✨</em>
+      </div>
+    </div>
   </div>
 </div>
 
-<!-- Snake Animation Divider -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=6ef776&height=10&section=header" width="100%"/>
+<!-- Stats Divider -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2&section=header" width="100%"/>
+</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imrohit44&theme=dark&hide_border=true&ring=6ef776&fire=6ef776&currStreakLabel=6ef776" width="49%" />
