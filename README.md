@@ -10,7 +10,6 @@
 
 ---
 
-### 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/imrohit44/imrohit44/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake animation" />
@@ -23,7 +22,6 @@
 
 ---
 
-### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imrohit44&theme=github-dark-dimmed&hide_border=true&ring=f7d747&fire=f7d747&currStreakLabel=f7d747" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=imrohit44&show_icons=true&theme=github_dark&hide_border=true&title_color=f7d747&icon_color=f7d747&text_color=c9d1d9" width="49%"/>
@@ -31,7 +29,6 @@
 
 ---
 
-### ⚙️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-f7d747?style=for-the-badge&logo=python&logoColor=black&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/PyTorch-f7d747?style=for-the-badge&logo=pytorch&logoColor=black&labelColor=0d1117"/>
@@ -46,7 +43,6 @@
 
 ---
 
-### 🌐 Connect with Me
 <p align="center">
   <a href="mailto:rohitmohan7804@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-f7d747?style=for-the-badge&logo=gmail&logoColor=black"/>
