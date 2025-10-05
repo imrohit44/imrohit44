@@ -1,13 +1,38 @@
 <div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=f7d747&text=Philosophy&fontSize=40&height=60"/>
+</div>
 
-```ascii
-  ╔══════════════════════════════════════════╗
-  ║           R O H I T  M O H A N           ║
-  ║         Robotics · ML · Innovation       ║
-  ╚══════════════════════════════════════════╝
-```
+<div align="center" style="background: linear-gradient(90deg, #FC466B 0%, #3F5EFB 100%); padding: 3px; border-radius: 10px; margin: 20px 10px;">
+  <div style="background: #0d1117; padding: 20px; border-radius: 8px;">
+    <blockquote style="color: #f7d747; font-style: italic;">
+      "Breaking problems into experiments, making them repeatable,<br>
+      and turning challenges into opportunities for innovation."
+    </blockquote>
+  </div>
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=35&pause=1000&color=6ef776&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Building+Smart+Robots;Training+Neural+Nets;Breaking+%26+Making+Things" alt="Typing Animation"/>
+<div align="center" style="margin-top: 40px;">
+  <a href="https://github.com/imrohit44?tab=followers">
+    <img src="https://img.shields.io/github/followers/imrohit44?label=Followers&style=social" alt="GitHub Badge"/>
+  </a>
+  <a href="https://github.com/imrohit44?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/github/stars/imrohit44?style=social" alt="GitHub Badge"/>
+  </a>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=100&section=footer&fontSize=70"/>
+
+<div align="center">
+  <sup>Made with 💫 by Rohit Mohan · Crafting the Future of Robotics and AI ✨</sup>
+</div>ght=200&section=header&text=ROHIT%20MOHAN&fontSize=70&fontAlignY=35&desc=Robotics%20·%20ML%20·%20Innovation&descAlignY=60&animation=twinkling&fontColor=f7d747"/>
+
+<div style="background: linear-gradient(90deg, #FC466B 0%, #3F5EFB 100%); padding: 3px; border-radius: 10px; margin: 0 10px;">
+  <div style="background: #0d1117; padding: 10px; border-radius: 8px;">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&pause=1000&color=f7d747&center=true&vCenter=true&width=600&height=70&duration=4000&lines=⚡+Building+Smart+Robots;🧠+Training+Neural+Nets;🔮+Crafting+the+Future" alt="Typing Animation"/>
+  </div>
+</div>
 
 <!-- Contribution Snake -->
 <div align="center">
@@ -41,44 +66,79 @@
   <img src="https://github-readme-stats.vercel.app/api?username=imrohit44&show_icons=true&theme=dark&hide_border=true&icon_color=6ef776&title_color=6ef776" width="49%" />
 </div>
 
-```ascii
-🤖 SKILLS & TOOLS 🛠️
-```
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=f7d747&text=Tech%20Arsenal&fontSize=40&height=60"/>
+</div>
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/Python-★★★-6ef776?style=for-the-badge&logo=python&logoColor=white&labelColor=1A1B27" />
-  <img src="https://img.shields.io/badge/PyTorch-★★★-6ef776?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=1A1B27" />
-  <img src="https://img.shields.io/badge/OpenCV-★★★-6ef776?style=for-the-badge&logo=opencv&logoColor=white&labelColor=1A1B27" />
-  <img src="https://img.shields.io/badge/ROS-★★-6ef776?style=for-the-badge&logo=ros&logoColor=white&labelColor=1A1B27" />
-  <img src="https://img.shields.io/badge/Linux-★★★-6ef776?style=for-the-badge&logo=linux&logoColor=white&labelColor=1A1B27" />
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 12px; margin: 20px 0;">
+  <img src="https://img.shields.io/badge/Python-⭐⭐⭐-f7d747?style=for-the-badge&logo=python&logoColor=f7d747&labelColor=0d1117&borderColor=f7d747" />
+  <img src="https://img.shields.io/badge/PyTorch-⭐⭐⭐-f7d747?style=for-the-badge&logo=pytorch&logoColor=f7d747&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/OpenCV-⭐⭐⭐-f7d747?style=for-the-badge&logo=opencv&logoColor=f7d747&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/ROS-⭐⭐-f7d747?style=for-the-badge&logo=ros&logoColor=f7d747&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Linux-⭐⭐⭐-f7d747?style=for-the-badge&logo=linux&logoColor=f7d747&labelColor=0d1117" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,tensorflow,ros,linux,docker,git&theme=dark&perline=8" />
 </div>
 
 <br/>
 
-```ascii
-📫 CONNECT 🤝
-```
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=f7d747&text=Featured%20Projects&fontSize=40&height=60"/>
+</div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/imrohit44/robot-vision">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=imrohit44&repo=robot-vision&theme=dark&bg_color=0d1117&title_color=f7d747&text_color=ffffff&icon_color=f7d747&border_color=f7d747" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/imrohit44/sensor-fusion">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=imrohit44&repo=sensor-fusion&theme=dark&bg_color=0d1117&title_color=f7d747&text_color=ffffff&icon_color=f7d747&border_color=f7d747" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=f7d747&text=Let's%20Connect&fontSize=40&height=60"/>
+</div>
+
+<div align="center" style="margin: 20px 0;">
   <a href="mailto:rohitmohan7804@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1A1B27?style=for-the-badge&logo=gmail&logoColor=6ef776" />
+    <img src="https://img.shields.io/badge/Gmail-f7d747?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
+  &nbsp;
   <a href="https://linkedin.com/in/rohitmohan-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-1A1B27?style=for-the-badge&logo=linkedin&logoColor=6ef776" />
+    <img src="https://img.shields.io/badge/LinkedIn-f7d747?style=for-the-badge&logo=linkedin&logoColor=black" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/imrohit44">
+    <img src="https://img.shields.io/badge/GitHub-f7d747?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </div>
 
-## Highlights
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=f7d747&text=Milestones&fontSize=40&height=60"/>
+</div>
 
- - Built a prototype robot that can localize using vision-based cues.
- - Trained convolutional models for object detection and sensor fusion experiments.
- - Contributor to small open-source robotics tools and personal automation scripts.
-
-## Featured Projects
-
- - [robot-vision-experiments] — experiments with stereo vision and depth estimation (work-in-progress)
- - [sensor-fusion-demo] — lightweight sensor fusion for IMU + camera data
- - [automate-my-notes] — tiny CLI for organizing research notes and snippets
+<div align="center" style="background: linear-gradient(90deg, #FC466B 0%, #3F5EFB 100%); padding: 3px; border-radius: 10px; margin: 20px 10px;">
+  <div style="background: #0d1117; padding: 20px; border-radius: 8px;">
+    <h3 style="color: #f7d747">🤖 Robotics</h3>
+    <p>Built autonomous navigation systems using computer vision and sensor fusion</p>
+    
+    <h3 style="color: #f7d747">🧠 Machine Learning</h3>
+    <p>Developed and deployed deep learning models for real-world applications</p>
+    
+    <h3 style="color: #f7d747">🛠️ Innovation</h3>
+    <p>Created tools and frameworks to accelerate robotics development</p>
+  </div>
+</div>
 
 > Note: Projects above are illustrative — pin your best repos on your GitHub profile to show them here.
 
