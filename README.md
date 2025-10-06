@@ -47,21 +47,3 @@
 
 ---
 
-<p align="center">
-  <div align="center" style="
-    animation: pulse 3s infinite;
-    text-align: center;
-  ">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&duration=4000&center=true&vCenter=true&width=800&height=70&lines=Designing+Intelligence+That+Thinks;Turning+Circuits+into+Consciousness;Innovation+That+Glows+in+the+Dark;Beyond+Code%2C+Beyond+Limits&color=F7D747&color2=FF6EC7&color3=00BFFF" alt="Typing Animation"/>
-  </div>
-</p>
-
-<!-- Pulse animation -->
-<style>
-@keyframes pulse {
-  0% { filter: drop-shadow(0 0 2px #f7d747) drop-shadow(0 0 5px #ff6ec7) drop-shadow(0 0 10px #00bfff); }
-  50% { filter: drop-shadow(0 0 6px #f7d747) drop-shadow(0 0 12px #ff6ec7) drop-shadow(0 0 20px #00bfff); }
-  100% { filter: drop-shadow(0 0 2px #f7d747) drop-shadow(0 0 5px #ff6ec7) drop-shadow(0 0 10px #00bfff); }
-}
-</style>
-
