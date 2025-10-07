@@ -11,6 +11,20 @@
 ###
 
 <p align="center">
+  <a href="mailto:rohitmohan7804@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-f7d747?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/rohitmohan-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-f7d747?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+</p>
+
+
+---
+###
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imrohit44&theme=github-dark-dimmed&hide_border=true&ring=f7d747&fire=f7d747&currStreakLabel=f7d747" width="47%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrohit44&layout=compact&hide_border=true&theme=github_dark&title_color=f7d747&text_color=c9d1d9&langs_count=6&card_width=420&custom_title=Most%20Used%20Languages" width="47%"/>
 </p>
@@ -33,17 +47,8 @@
 </p>
 
 ---
-###
 
-<p align="center">
-  <a href="mailto:rohitmohan7804@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-f7d747?style=for-the-badge&logo=gmail&logoColor=black"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/rohitmohan-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-f7d747?style=for-the-badge&logo=linkedin&logoColor=black"/>
-  </a>
-</p>
-
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer"/>
+</div>
 
