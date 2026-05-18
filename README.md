@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,25:240046,50:5a189a,75:7b2cbf,100:00e5ff&text=ROHIT%20MOHAN&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%E2%80%A2%20AUTOMATION%20%E2%80%A2%20SYSTEM%20ENGINEERING&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,25:240046,50:5a189a,75:7b2cbf,100:00e5ff&text=ROHIT%20MOHAN&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%E2%80%A2%20AUTOMATION%20%E2%80%A2%20SYSTEM%20ENGINEERING%20%E2%80%A2%ROBOTICS&descAlignY=60"/>
 </p>
 
 <p align="center">
