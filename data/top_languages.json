@@ -1,0 +1,43 @@
+{
+  "username": "imrohit44",
+  "fetched_at": "2026-10-04T18:13:37Z",
+  "total_bytes": 27129398,
+  "languages": [
+    {
+      "name": "HTML",
+      "bytes": 15490449,
+      "percentage": 57.1,
+      "color": "#e34c26"
+    },
+    {
+      "name": "C++",
+      "bytes": 10024515,
+      "percentage": 36.95,
+      "color": "#f34b7d"
+    },
+    {
+      "name": "Python",
+      "bytes": 1181815,
+      "percentage": 4.36,
+      "color": "#3572A5"
+    },
+    {
+      "name": "Jupyter Notebook",
+      "bytes": 212637,
+      "percentage": 0.78,
+      "color": "#27C93F"
+    },
+    {
+      "name": "TypeScript",
+      "bytes": 134616,
+      "percentage": 0.5,
+      "color": "#8A2BE2"
+    },
+    {
+      "name": "Go",
+      "bytes": 85366,
+      "percentage": 0.31,
+      "color": "#00ADD8"
+    }
+  ]
+}
