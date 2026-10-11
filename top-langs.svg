@@ -12,28 +12,28 @@
       <rect width="370" height="8" rx="4"/>
     </clipPath>
     <g clip-path="url(#bar-clip)">
-      <rect x="0.00" y="0" width="211.27" height="8" fill="#e34c26"/>
-      <rect x="211.27" y="0" width="136.72" height="8" fill="#f34b7d"/>
-      <rect x="347.99" y="0" width="16.13" height="8" fill="#3572A5"/>
-      <rect x="364.12" y="0" width="2.89" height="8" fill="#27C93F"/>
-      <rect x="367.00" y="0" width="1.85" height="8" fill="#8A2BE2"/>
+      <rect x="0.00" y="0" width="210.38" height="8" fill="#e34c26"/>
+      <rect x="210.38" y="0" width="136.16" height="8" fill="#f34b7d"/>
+      <rect x="346.54" y="0" width="17.61" height="8" fill="#3572A5"/>
+      <rect x="364.15" y="0" width="2.89" height="8" fill="#27C93F"/>
+      <rect x="367.04" y="0" width="1.81" height="8" fill="#8A2BE2"/>
       <rect x="368.85" y="0" width="1.15" height="8" fill="#00ADD8"/>
     </g>
   </g>
   <g transform="translate(25, 82)">
     <circle cx="5" cy="6" r="5" fill="#e34c26"/>
     <text x="16" y="10" class="lang-name">HTML</text>
-    <text x="150" y="10" class="lang-pct" text-anchor="end">57.10%</text>
+    <text x="150" y="10" class="lang-pct" text-anchor="end">56.86%</text>
   </g>
   <g transform="translate(215, 82)">
     <circle cx="5" cy="6" r="5" fill="#f34b7d"/>
     <text x="16" y="10" class="lang-name">C++</text>
-    <text x="150" y="10" class="lang-pct" text-anchor="end">36.95%</text>
+    <text x="150" y="10" class="lang-pct" text-anchor="end">36.80%</text>
   </g>
   <g transform="translate(25, 110)">
     <circle cx="5" cy="6" r="5" fill="#3572A5"/>
     <text x="16" y="10" class="lang-name">Python</text>
-    <text x="150" y="10" class="lang-pct" text-anchor="end">4.36%</text>
+    <text x="150" y="10" class="lang-pct" text-anchor="end">4.76%</text>
   </g>
   <g transform="translate(215, 110)">
     <circle cx="5" cy="6" r="5" fill="#27C93F"/>
@@ -43,7 +43,7 @@
   <g transform="translate(25, 138)">
     <circle cx="5" cy="6" r="5" fill="#8A2BE2"/>
     <text x="16" y="10" class="lang-name">TypeScript</text>
-    <text x="150" y="10" class="lang-pct" text-anchor="end">0.50%</text>
+    <text x="150" y="10" class="lang-pct" text-anchor="end">0.49%</text>
   </g>
   <g transform="translate(215, 138)">
     <circle cx="5" cy="6" r="5" fill="#00ADD8"/>

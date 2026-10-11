@@ -1,24 +1,24 @@
 {
   "username": "imrohit44",
-  "fetched_at": "2026-10-04T18:13:37Z",
-  "total_bytes": 27129398,
+  "fetched_at": "2026-10-11T03:28:40Z",
+  "total_bytes": 27243279,
   "languages": [
     {
       "name": "HTML",
       "bytes": 15490449,
-      "percentage": 57.1,
+      "percentage": 56.86,
       "color": "#e34c26"
     },
     {
       "name": "C++",
       "bytes": 10024515,
-      "percentage": 36.95,
+      "percentage": 36.8,
       "color": "#f34b7d"
     },
     {
       "name": "Python",
-      "bytes": 1181815,
-      "percentage": 4.36,
+      "bytes": 1295696,
+      "percentage": 4.76,
       "color": "#3572A5"
     },
     {
@@ -30,7 +30,7 @@
     {
       "name": "TypeScript",
       "bytes": 134616,
-      "percentage": 0.5,
+      "percentage": 0.49,
       "color": "#8A2BE2"
     },
     {
